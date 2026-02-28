@@ -1,6 +1,6 @@
 Vishvambar Udavant
 
-AI Engineer | Full-Stack Developer | Deep Learning Researcher
+AI Engineer | Full-Stack Developer | AI Researcher
 
 Building high-performance, hardware-aware systems from first principles. I prioritize the underlying math over library magic and optimization over throwing compute at bad architecture.
 
@@ -9,8 +9,6 @@ Building high-performance, hardware-aware systems from first principles. I prior
 🚀 Building: Automated Generative AI engines & NLP pipelines.
 
 🌱 Deep Diving: Visual Computing, Data Mining, and optimizing LoRA/QLoRA weights.
-
-💬 Let's Talk: System architecture, calculus of neural networks, or hardware-constrained inference.
 
 🛠 Tech Stack
 
@@ -23,12 +21,12 @@ Tools & DevOps
 📊 Vital Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Vishvambar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvambar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishvambar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvambar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 📬 Connect
 
-LinkedIn
+https://www.linkedin.com/in/vishvambar-udavant
 
 vishvambarudavant96@gmail.com
