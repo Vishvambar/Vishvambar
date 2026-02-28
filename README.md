@@ -18,13 +18,6 @@ Full Stack & Web3
 
 Tools & DevOps
 
-📊 Vital Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=vishvambar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvambar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
 📬 Connect
 
 https://www.linkedin.com/in/vishvambar-udavant
