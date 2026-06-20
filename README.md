@@ -1,24 +1,16 @@
 # Vishvambar 
-**AI/ML Researcher & Full-Stack Systems Engineer**
+**AI/ML Researcher & Full-Stack Engineer**
 
-I am a computer science engineer driven by an obsessive curiosity for Artificial Intelligence. I don't just consume research papers; I translate complex ML architecture into scalable, deployed systems. I bridge the gap between deep AI research and production-grade full-stack engineering.
+I'm a CS engineer who basically can't turn my brain off when it comes to AI. I don't just want to read whitepapers—I want to actually build the things I'm reading about. My sweet spot is taking heavy, theoretical ML concepts and wiring them into functional, scalable applications.
 
-### 🔭 Currently Focused On:
-* **AI Research:** Conducting research as an IEEE Intern, analyzing the latest architectures in Computer Vision and LLMs.
-* **Active Development:** Engineering **Project Shield**, **PLANAR**, and **ADFRAME** (deep-diving into ML integrations).
-* **Continuous Pursuit:** Rapidly prototyping and testing new AI paradigms. If a new model drops, I am breaking it down by the end of the day.
-
+### 🔭 What I'm doing right now:
+* **Research:** Working as an IEEE Intern, ripping apart new Computer Vision and LLM architectures to see how they tick.
+* **Building:** Writing the code focused heavily on real-world ML integrations.
+* **Going Deep:** Researching ML self-learning and continuous adaptation. I'm actively exploring how models can autonomously improve themselves rather than just relying on static training pipelines.
+  
 ### 💻 Core Engineering Stack:
-When I need to build and scale a production application, I rely on a battle-tested stack:
-* **AI & Data:** Python, Scikit-Learn, Pandas, NumPy, OpenCV (Vision), LLM APIs
-* **Full-Stack Ecosystem:** MongoDB, Express.js, React, Node.js (MERN)
-* **Deployment:** Vercel, Render, Cloudflare
-
-### 🏆 Proof of Work (Featured Projects):
-*(I build constantly, but these two systems represent my best architectural work)*
-
-* **[Project 1 Name]** — [One brutally concise sentence explaining what it does and the exact tech used. E.g., An AI-powered application built with X and Y that solved Z.]
-* **[Project 2 Name]** — [One brutally concise sentence explaining what it does. E.g., A full-stack MERN application handling X thousands of requests with Y integration.]
+I am language-agnostic and architecture-first. In the era of AI coding tools, syntax is a solved problem. I focus on system requirements, security protocols, and architectural trade-off analysis. I can adapt to any technology to solve the problem at hand.
 
 ---
-*Let's build something that pushes the boundaries.* [Connect with me on LinkedIn](#) | [Portfolio/Website](#)
+*Let's build something that actually matters.* <br>
+[Connect with me on LinkedIn](https://www.linkedin.com/in/vishvambar-udavant)
