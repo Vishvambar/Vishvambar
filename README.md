@@ -1,5 +1,5 @@
 # Vishvambar 
-**AI/ML Researcher & Full-Stack Engineer**
+**AI/ML & Full-Stack Engineer**
 
 I'm a CS engineer who basically can't turn my brain off when it comes to AI. I don't just want to read whitepapers—I want to actually build the things I'm reading about. My sweet spot is taking heavy, theoretical ML concepts and wiring them into functional, scalable applications.
 
